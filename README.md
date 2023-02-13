@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <div display-flex>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fhtml-5_919827&psig=AOvVaw0F8YiPfxXz9sYXx-MmIyCT&ust=1676393450192000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCmvbP6kv0CFQAAAAAdAAAAABAE"> </img>
+</div>
 
 <!-- <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
